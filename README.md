@@ -1,6 +1,3 @@
-<body>
-  <img src="me.jpg" alt="Orville Antazo">
-</body>
 # My Portfolio
 
 ## Eyes Repo
