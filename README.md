@@ -1,6 +1,6 @@
 # My Portfolio
 
-## Eyes Repo
+## GithubMiniLesson
 <a href="https://github.com/operator13/GitHubMiniLesson"> GithubMiniLesson </a>
 
 ## PCDE Activity 9.1
