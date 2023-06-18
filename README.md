@@ -1,3 +1,3 @@
 # My Portfolio
 ## Eyes Repo
-<a href="http//operator13.github.io/"> Eyes Exercise </a>
+<a href="https://operator13.github.io/"> Eyes Exercise </a>
