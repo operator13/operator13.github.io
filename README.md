@@ -1,5 +1,6 @@
-![Image Description](me.jpg){: width="25%" }
-# My Portfolio
+<img src="me.jpg" alt="Image Description" style="max-width: 25%;">
+
+# Repository for Activities 9.1 and 9.2
 
 ## GithubMiniLesson
 <a href="https://github.com/operator13/GitHubMiniLesson"> GithubMiniLesson </a>
