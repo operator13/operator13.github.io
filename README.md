@@ -1,3 +1,4 @@
+![Image Description](me.jpg){: width="25%" }
 # My Portfolio
 
 ## GithubMiniLesson
