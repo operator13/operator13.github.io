@@ -6,4 +6,4 @@
 <a href="https://github.com/operator13/PCDE-Activity-9.1"> PCDE Activity 9.1 </a>
 
 ## PCDE Activity 9.2
-<a href="https://github.com/operator13/GitHubMiniLesson"> GithubMiniLesson </a>
+<a href="https://github.com/operator13/GitHubMiniLesson"> PCDE Activity 9.2(GithubMiniLesson) </a>
